@@ -1,0 +1,31 @@
+{
+  "client": "./src/client/",
+  "server": "./src/server/",
+  "test": "./src/client/test/",
+  "html": "./src/client/**/*.html",
+  "htmltemplates": "./src/client/app/**/*.html",
+  "vendorjs": [
+    //Include ./bower_component js you want concatenated (in order)
+  ],
+  "vendorcss": [
+    //Include ./bower_component css you want concatenated (in order)
+  ],
+  "css": [
+    //Include project specific CSS files
+  ],
+  "js": [
+    //Include project specific JS files
+  ],
+  "specs": [
+    "./src/client/test/specs/*.spec.js"
+  ],
+  "fonts": [
+    //Include project specific font files
+  ],
+  "images": [
+    //Include project specific images
+    "./src/client/content/images/**/*"
+  ],
+  "build": "./build/",
+  "buildprefix": "/app"
+}

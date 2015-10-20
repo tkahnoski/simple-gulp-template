@@ -1,0 +1,15 @@
+{
+  "name": "simple-gulp-bower-template",
+  "version": "0.0.0",
+  "description": "Simple Template for Apps utilizing Gulp & Bower",
+  "authors": [
+    "Thomas Kahnoski"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+  },
+  "dependencies": {},
+  "resolutions": {
+  }
+}
